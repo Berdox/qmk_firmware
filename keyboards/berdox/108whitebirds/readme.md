@@ -2,7 +2,7 @@
 
 ![108whitebirds Layout](https://i.imgur.com/o7qSlff.png)
 
-* An 100% keyboard using ANSI layout made into the most compact version by removing the space between all the keys and adding four extra keys above the number pad
+* An 100% keyboard using ANSI layout made into the most compact version by removing the space between all the keys and adding four extra keys above the number pad. The extra keys are set (from left to right) sleep, media prev, media pause, media next.
 
 * Keyboard Maintainer: [Berdox](https://github.com/Berdox)
 * Hardware Supported:  Blackpill Dev Board or any other dev board with 27 pins using STM32F411 microprocessor
